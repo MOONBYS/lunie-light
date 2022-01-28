@@ -12,7 +12,7 @@ export default {
       viewDenom: 'PAN',
       chainDenom: 'upan',
       chainToViewConversionFactor: 1e-6,
-      icon: `currencies/muon.png`,
+      icon: `images/Moonbys.png`,
     },
   ],
   addressPrefix: 'pan',
